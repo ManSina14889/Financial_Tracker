@@ -1,4 +1,9 @@
+
 # Finance App
+
+# Members
+Anuson Khwansakun
+Tihong Chhiv
 
 A modern, single-user finance tracking application built with React and Vite. Track your spending, analyze your financial patterns, and manage your budget with beautiful charts and intuitive interface.
 
@@ -132,3 +137,11 @@ This is a single-user application designed for personal finance tracking. Feel f
 ## License
 
 This project is open source and available under the MIT License.
+
+## Screenshots
+
+### Analytics Dashboard
+![Analytics Dashboard](public/screenshots/analytics.png)
+
+### Journal Page
+![Journal Page](public/screenshots/journal.png)
