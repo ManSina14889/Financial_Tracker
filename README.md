@@ -141,7 +141,7 @@ This project is open source and available under the MIT License.
 ## Screenshots
 
 ### Analytics Dashboard
-![Analytics Dashboard](public/screenshots/analytics.png)
+![Analytics Dashboard](public/screenshots/Analysis.png)
 
 ### Journal Page
-![Journal Page](public/screenshots/journal.png)
+![Journal Page](public/screenshots/Journal.png)
