@@ -5,7 +5,7 @@
 Anuson Khwansakun
 Tihong Chhiv
 
-A modern, single-user finance tracking application built with React and Vite. Track your spending, analyze your financial patterns, and manage your budget with beautiful charts and intuitive interface.
+A modern, single-user finance tracking application built with React and Vite. Track your spending, analyze your financial patterns, and manage your budget with charts and intuitive interface.
 
 ## Features
 
